@@ -31,18 +31,18 @@
     "grunt": "^1.6.1",
     "grunt-contrib-clean": "^2.0.1",
     "grunt-contrib-concat": "^2.1.0",
-    "grunt-contrib-connect": "^4.0.0",
+    "grunt-contrib-connect": "^5.0.0",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-cssmin": "^5.0.0",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-html": "^17.0.0",
     "grunt-sass": "^3.1.0",
     "grunt-shell": "^4.0.0",
-    "postcss": "^8.4.27",
+    "postcss": "^8.5.0",
     "prismjs": "^1.29.0",
     "rtlcss": "^4.1.0",
-    "sass": "^1.65.1",
-    "stylelint": "^15.10.2",
-    "stylelint-config-twbs-bootstrap": "^11.0.1"
+    "sass": "^1.79.0",
+    "stylelint": "^16.14.0",
+    "stylelint-config-twbs-bootstrap": "^14.1.0"
   }
 }
