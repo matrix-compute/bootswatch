@@ -39,7 +39,7 @@
     "grunt-sass": "^3.1.0",
     "grunt-shell": "^4.0.0",
     "postcss": "^8.4.27",
-    "prismjs": "^1.29.0",
+    "prismjs": "^1.30.0",
     "rtlcss": "^4.1.0",
     "sass": "^1.65.1",
     "stylelint": "^15.10.2",
